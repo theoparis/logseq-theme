@@ -1,0 +1,19 @@
+{
+  "name": "logseq-pink-as-fox-theme",
+  "version": "1.0.0",
+  "description": "A dark theme for Logseq.",
+  "author": "theoparis",
+  "repo": "theoparis/logseq-theme",
+  "logseq": {
+    "title": "Theo's Pitch Black Theme",
+    "icon": "icon.svg",
+    "themes": [
+      {
+        "name": "Theo's Pitch Black Theme",
+        "url": "./custom.css",
+        "description": "A dark theme for Logseq.",
+        "mode": "dark"
+      }
+    ]
+  }
+}
